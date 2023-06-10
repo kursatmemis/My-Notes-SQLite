@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Notlarım</string>
+    <string name="title_edit_text_hint">Not Başlığını Giriniz</string>
+    <string name="detail_edit_text_hint">Not Açıklamasını Giriniz</string>
+    <string name="save_note_text">Notu Kaydet</string>
+    <string name="note_detail_header">Not Detayı</string>
+    <string name="delete_note_button_text">Notu Sil</string>
+    <string name="not_id_text">Not Id:</string>
+    <string name="note_title_text">Not Başlığı:</string>
+    <string name="note_detail_text">Not Detayı:</string>
+    <string name="note_date_text">Oluşturulma Tarihi:</string>
+    <string name="my_notes_text">Notlarım</string>
+    <string name="delete_all_notes_text">Bütün Notları Silmek İçin Tıklayınız</string>
+    <string name="example_note_title_1">Your Example Note - 1</string>
+    <string name="example_note_title_2">Your Example Note - 2</string>
+    <string name="example_note_title_3">Your Example Note - 3</string>
+    <string name="example_note_title_4">Your Example Note - 4</string>
+    <string name="example_note_title_5">Your Example Note - 5</string>
+    <string name="example_note_detail_1">Günde ortalama 70.000 düşünce üretiyoruz ve bunların çoğu geçmiş veya gelecek hakkında endişe, korku ve kaygı içeriyor.</string>
+    <string name="example_note_detail_2">Bir ton kağıt geri dönüştürüldüğünde, 17 ağacın kesilmesi engellenir, 3.3 metreküp depolama alanı tasarrufu sağlanır ve 4,000 kWh enerji tasarrufu elde edilir.</string>
+    <string name="example_note_detail_3">Bir köpek yüz ifadesi olarak insanlardan daha fazla çeşitlilik gösterebilir ve yüz kasları insan yüzündeki kaslardan daha fazla sayıdadır.</string>
+    <string name="example_note_detail_4">Araştırmalar, insanların %90 ının sol elini kullanmayan insanlarla karşılaştıklarında özgüvenlerinin azaldığını ve kendilerini daha hantal hissettiklerini gösteriyor.</string>
+    <string name="example_note_detail_5">Bir milyon saniye tam olarak 11 gün, 13 saat, 46 dakika ve 40 saniyedir.</string>
+</resources>
